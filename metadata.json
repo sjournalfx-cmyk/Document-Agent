@@ -1,0 +1,8 @@
+{
+  "name": "Document Agent",
+  "description": "Speak, and the orb responds and anwers from the users documents. An interactive experience powered by the Live Audio API.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
